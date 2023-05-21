@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajwinderKaur10
 - 👀 I’m interested in Web Designing and Web Development.
-- 🌱 I’m currently learning Java, react Js
+- 🌱 I’m currently learning JavaScript
 - <!---💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
